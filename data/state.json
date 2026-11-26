@@ -1,0 +1,377 @@
+{
+  "users": {
+    "local_owner": {
+      "id": "local_owner",
+      "email": "owner@local.peakcut",
+      "name": "Owner",
+      "password_hash": "",
+      "google_sub": "",
+      "is_admin": true,
+      "disabled": false,
+      "verified": true,
+      "created_at": 1795335240.893,
+      "last_seen": 1795421061.315
+    }
+  },
+  "sessions": {},
+  "creators": {
+    "bengun-f4d038": {
+      "name": "Bengun",
+      "channel": "https://youtube.com/@bengun?si=dO9a165baiDiN8fL",
+      "channels": {
+        "youtube": "https://youtube.com/@bengun?si=dO9a165baiDiN8fL"
+      },
+      "style": "bounce",
+      "layout": "split_gameplay",
+      "captions": true,
+      "min_len": 15,
+      "max_len": 60,
+      "max_clips": 6,
+      "min_score": 80,
+      "auto_watch": true,
+      "buffer_min": 20,
+      "live_per_hour": 6,
+      "ai_every_min": 1,
+      "ai_only_on_spike": true,
+      "auto_jump_pct": 60,
+      "plan": "free",
+      "decide_mode": "both",
+      "must_clip_min": 0,
+      "min_gap_min": 2,
+      "game": "",
+      "hook_text": "",
+      "description_text": "",
+      "trigger_words": "clip that, clip it",
+      "autopost": false,
+      "accounts": [],
+      "post_min_score": 75,
+      "post_gap_min": 45,
+      "daily_cap": 6,
+      "privacy": "public",
+      "post_footer": "",
+      "rate_per_1k": 0,
+      "lang": "en",
+      "id": "bengun-f4d038",
+      "user": "local_owner",
+      "created_at": 1795335350.613,
+      "profiles": {},
+      "facecam": {
+        "x": 0.442,
+        "y": 0.14,
+        "w": 0.429,
+        "h": 0.24
+      },
+      "split_ratio": 0.4
+    }
+  },
+  "creatorLogs": {
+    "bengun-f4d038": [
+      {
+        "t": 1795335350.614,
+        "msg": "Workspace created for Bengun"
+      }
+    ]
+  },
+  "jobs": {
+    "20261122-091147-8585959ee7": {
+      "id": "20261122-091147-8585959ee7",
+      "user": "local_owner",
+      "kind": "video",
+      "creator": null,
+      "dir": "/app/applet/data/users/local_owner/jobs/20261122-091147-8585959ee7",
+      "created": 1795338707.962,
+      "source": {
+        "type": "url",
+        "url": "https://youtu.be/1O_GCgCu-j4?si=5hdNVEzQqFXbxkZe",
+        "name": "https://youtu.be/1O_GCgCu-j4?si=5hdNVEzQqFXbxkZe"
+      },
+      "options": {
+        "max_clips": 6,
+        "min_len": 15,
+        "max_len": 60,
+        "style": "bounce",
+        "layout": "blur",
+        "quality": 720,
+        "range_start": null,
+        "range_end": null,
+        "captions": true,
+        "hook_text": "",
+        "description_text": "",
+        "lang": "en"
+      },
+      "status": "error",
+      "stage": "Failed",
+      "progress": 0.06,
+      "title": "MY GIRLFRIEND IS BACK | GTA 6 GAMEPLAY #3",
+      "uploader": "Techno Gamerz",
+      "duration": 6183,
+      "width": 1280,
+      "height": 720,
+      "has_audio": true,
+      "thumb": false,
+      "lang": "en",
+      "clips": [],
+      "error": "Requested format is not available. Use --list-formats for a list of available formats",
+      "ai": {}
+    },
+    "20261122-104359-df44d79fb9": {
+      "id": "20261122-104359-df44d79fb9",
+      "user": "local_owner",
+      "kind": "video",
+      "creator": null,
+      "dir": "/app/applet/data/users/local_owner/jobs/20261122-104359-df44d79fb9",
+      "source_path": "/app/applet/data/users/local_owner/jobs/20261122-104359-df44d79fb9/source.mp4",
+      "created": 1795344239.001,
+      "source": {
+        "type": "url",
+        "url": "https://youtu.be/1O_GCgCu-j4?si=5hdNVEzQqFXbxkZe",
+        "name": "https://youtu.be/1O_GCgCu-j4?si=5hdNVEzQqFXbxkZe",
+        "path": "/app/applet/data/users/local_owner/jobs/20261122-104359-df44d79fb9/source.mp4"
+      },
+      "options": {
+        "max_clips": 4,
+        "min_len": 20,
+        "max_len": 45,
+        "style": "bounce",
+        "layout": "blur",
+        "quality": 720,
+        "range_start": null,
+        "range_end": null,
+        "captions": true,
+        "hook_text": "",
+        "description_text": "",
+        "lang": "en"
+      },
+      "status": "done",
+      "stage": "Done — 4 clips ready",
+      "progress": 1,
+      "title": "MY GIRLFRIEND IS BACK | GTA 6 GAMEPLAY #3",
+      "uploader": "Techno Gamerz",
+      "duration": 6183.08,
+      "width": 1280,
+      "height": 720,
+      "has_audio": true,
+      "thumb": true,
+      "lang": "en",
+      "clips": [
+        {
+          "id": "clip01",
+          "start": 880,
+          "end": 920,
+          "score": 90,
+          "category": "shock",
+          "hook": "TRAPPED UNDERWATER SHARK ATTACK!",
+          "title": "Underwater Rescue Gone Wrong in GTA 6",
+          "description": "While exploring a shipwreck for treasure, Jason discovers a tourist trapped under debris, followed immediately by a shark threat.\n\n#gta6 #technogamerz #grandtheftauto #shocking",
+          "fixed_description": false,
+          "hashtags": [
+            "gta6",
+            "technogamerz",
+            "grandtheftauto",
+            "shocking"
+          ],
+          "highlight_words": [
+            "shipwreck",
+            "trapped",
+            "shark",
+            "rescue"
+          ],
+          "reason": "The sudden escalation from exploration to a life-or-death rescue followed by a shark encounter keeps the audience glued to the screen.",
+          "style": "bounce",
+          "layout": "blur",
+          "captions": true,
+          "status": "done",
+          "version": 1,
+          "error": null,
+          "hashtags_in_description": true,
+          "file": "clip01.mp4",
+          "cover": "clip01.jpg",
+          "made_at": 1795344405.505
+        },
+        {
+          "id": "clip02",
+          "start": 128.5,
+          "end": 168,
+          "score": 85,
+          "category": "funny",
+          "hook": "WRONG MOVE, BRO!",
+          "title": "Techno Gamerz GTA 6: Jason Destroys His Own Car",
+          "description": "Jason tries to show off his new car exhaust upgrade, but ends up destroying his own vehicle in the process. A classic GTA fail moment.\n\n#gta6 #technogamerz #grandtheftauto #funny",
+          "fixed_description": false,
+          "hashtags": [
+            "gta6",
+            "technogamerz",
+            "grandtheftauto",
+            "funny"
+          ],
+          "highlight_words": [
+            "flame",
+            "destroy",
+            "repair",
+            "fail"
+          ],
+          "reason": "The contrast between the character's confidence and the immediate failure of breaking his own car makes for a hilarious and relatable moment.",
+          "style": "bounce",
+          "layout": "blur",
+          "captions": true,
+          "status": "done",
+          "version": 1,
+          "error": null,
+          "hashtags_in_description": true,
+          "file": "clip02.mp4",
+          "cover": "clip02.jpg",
+          "made_at": 1795344431.611
+        },
+        {
+          "id": "clip03",
+          "start": 1965,
+          "end": 1995,
+          "score": 80,
+          "category": "rage",
+          "hook": "ZOMBIE HORROR GAMING MOMENT",
+          "title": "Jason Plays Resident Evil-Style Horror Game in GTA 6",
+          "description": "Jason and his friend try out a horror game on their console, resulting in intense combat against hordes of zombies.\n\n#gta6 #technogamerz #grandtheftauto #rage",
+          "fixed_description": false,
+          "hashtags": [
+            "gta6",
+            "technogamerz",
+            "grandtheftauto",
+            "rage"
+          ],
+          "highlight_words": [
+            "zombies",
+            "horror",
+            "combat",
+            "intense"
+          ],
+          "reason": "The 'game within a game' aspect creates an interesting layer to the video, and the sudden shift to frantic horror gameplay adds high energy.",
+          "style": "bounce",
+          "layout": "blur",
+          "captions": true,
+          "status": "done",
+          "version": 1,
+          "error": null,
+          "hashtags_in_description": true,
+          "file": "clip03.mp4",
+          "cover": "clip03.jpg",
+          "made_at": 1795344450.176
+        },
+        {
+          "id": "clip04",
+          "start": 1330,
+          "end": 1370,
+          "score": 75,
+          "category": "clutch",
+          "hook": "GTA MOTORBIKE STUNT SKILLS",
+          "title": "Perfecting the Wheelie Stunt in GTA 6",
+          "description": "Jason practices his bike control in the neighborhood, trying to nail the perfect wheelie and stoppie moves.\n\n#gta6 #technogamerz #grandtheftauto #clutch",
+          "fixed_description": false,
+          "hashtags": [
+            "gta6",
+            "technogamerz",
+            "grandtheftauto",
+            "clutch"
+          ],
+          "highlight_words": [
+            "wheelie",
+            "stoppie",
+            "practice",
+            "skills"
+          ],
+          "reason": "Viewers love watching skilled gameplay maneuvers, and the steady progression of the stunts provides satisfying visual payoff.",
+          "style": "bounce",
+          "layout": "blur",
+          "captions": true,
+          "status": "done",
+          "version": 1,
+          "error": null,
+          "hashtags_in_description": true,
+          "file": "clip04.mp4",
+          "cover": "clip04.jpg",
+          "made_at": 1795344482.279
+        }
+      ],
+      "error": null,
+      "ai": {
+        "model": "gemini-3.1-flash-lite",
+        "tokens": 9042,
+        "note": ""
+      },
+      "game": "Grand Theft Auto VI"
+    }
+  },
+  "accounts": [],
+  "posts": [],
+  "settings": {
+    "local_owner": {
+      "discord_webhook": "",
+      "telegram_token": "",
+      "telegram_chat": "",
+      "paused": false,
+      "digest_hour": 8,
+      "last_digest": "",
+      "tour_done": true
+    }
+  },
+  "usage": [
+    {
+      "id": 1,
+      "user_id": "local_owner",
+      "t": 1795335951.599,
+      "tokens_in": 111,
+      "tokens_out": 6,
+      "purpose": "test",
+      "creator": null,
+      "place": "Settings test"
+    },
+    {
+      "id": 2,
+      "user_id": "local_owner",
+      "t": 1795338492.086,
+      "tokens_in": 111,
+      "tokens_out": 7,
+      "purpose": "test",
+      "creator": null,
+      "place": "Settings test"
+    },
+    {
+      "id": 3,
+      "user_id": "local_owner",
+      "t": 1795344380.904,
+      "tokens_in": 8192,
+      "tokens_out": 850,
+      "purpose": "find clips",
+      "creator": null,
+      "place": "MY GIRLFRIEND IS BACK | GTA 6 GAMEPLAY #3"
+    }
+  ],
+  "notices": [
+    {
+      "id": 4,
+      "user_id": "local_owner",
+      "t": 1795344482.28,
+      "kind": "job",
+      "title": "MY GIRLFRIEND IS BACK | GTA 6 GAMEPLAY #3 finished",
+      "body": "4 clips ready to review and download.",
+      "link": "/app/videos",
+      "read_at": null,
+      "ref": "job:20261122-104359-df44d79fb9"
+    }
+  ],
+  "feedback": [],
+  "adminLog": [],
+  "apps": {},
+  "speech": {
+    "en": {
+      "state": "ready",
+      "percent": 100,
+      "error": ""
+    },
+    "ar": {
+      "state": "ready",
+      "percent": 100,
+      "error": ""
+    }
+  },
+  "nextId": 5
+}

@@ -1,0 +1,6 @@
+{
+  "name": "PeakCut",
+  "description": "AI video clipping studio that turns long videos and streams into vertical 9:16 clips with animated captions, creator workspaces, and multi-platform scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
